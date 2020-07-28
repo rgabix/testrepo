@@ -1,1 +1,3 @@
 minta_ird bele az uj txt fileba 
+újra modosítjuk, hogy untracked statusba kerüljön.--- nem 
+azért, hogy modified statusba kerüljön
